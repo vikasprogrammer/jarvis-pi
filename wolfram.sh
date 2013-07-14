@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Recording... Press Ctrl+C to Stop."
+echo "Recording... Press Ctrl+C to Force Stop."
 
 ./lib/speech2text.sh
 

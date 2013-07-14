@@ -11,14 +11,14 @@ A Simple collection of bash scripts for your raspberry pi to search Wolfram Alph
 Example
 ========
 
-pi@raspberrypi ~/jarvis $ ./jarvis.sh 
-Recording... Press Ctrl+C to Force Stop.
-Processing...
-Me:  Jarvis
-Recording... Press Ctrl+C to Force Stop.
-Processing...
-Me:  how much is 6 divided by 5
-Jarvis:  6/5 (irreducible)
+  pi@raspberrypi ~/jarvis $ ./jarvis.sh 
+  Recording... Press Ctrl+C to Force Stop.
+  Processing...
+  Me:  Jarvis
+  Recording... Press Ctrl+C to Force Stop.
+  Processing...
+  Me:  how much is 6 divided by 5
+  Jarvis:  6/5 (irreducible)
 
 
 pi@raspberrypi ~/jarvis-pi $ ./bot.sh 

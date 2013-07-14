@@ -39,6 +39,7 @@ Settings
 ========
 
 Sox (used for recording) is set to detect silence for 1 second. Change lib/speech2text.sh -> sox ... silence 1. 
+Update your wolfram alpha key in lib/queryprocess.py
 
 Source
 ========

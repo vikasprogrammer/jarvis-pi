@@ -10,7 +10,7 @@ A Simple collection of bash scripts for your raspberry pi to search Wolfram Alph
 
 Example
 ========
-
+<pre>
   pi@raspberrypi ~/jarvis $ ./jarvis.sh 
   Recording... Press Ctrl+C to Force Stop.
   Processing...
@@ -26,7 +26,7 @@ Recording... Press Ctrl+C to Force Stop.
 Processing...
 Me:  who are you
 Jarvis:  You should answer your name.
-
+</pre>
 
 Dependencies
 ========
